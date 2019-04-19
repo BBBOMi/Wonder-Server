@@ -178,5 +178,5 @@ nohup mvn spring-boot:run&
 
 ## 수상
 
-- 2019 SOPT 제 23기 APPJAM 장려상 수상
+- 2018 SOPT 제 23기 APPJAM 장려상 수상
 ------
