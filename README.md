@@ -1,4 +1,4 @@
-# bring(구 Wonder-erver)
+# bring(구 Wonder-Server)
 
 ![bring_logo.PNG](https://github.com/BBBOMi/Wonder-Server/blob/master/img/bring_logo.PNG)
 
@@ -136,7 +136,7 @@ nohup mvn spring-boot:run&
 ## 배포
 
 - AWS EC2 - 애플리케이션 서버
-- AWS RDS - db 서버
+- AWS RDS - DB 서버
 - AWS S3 - 저장소 서버
 
 <br>
@@ -178,5 +178,5 @@ nohup mvn spring-boot:run&
 
 ## 수상
 
-- 2019 SOPT 제 23기 APPJAM 장려상 수상
+- 2019년 SOPT 제 23기 APPJAM 장려상 수상
 ------
