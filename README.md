@@ -1,4 +1,4 @@
-# bring(구 Wonder_server)
+# bring(구 Wonder-erver)
 
 ![bring_logo.PNG](https://github.com/BBBOMi/Wonder-Server/blob/master/img/bring_logo.PNG)
 
@@ -171,12 +171,12 @@ nohup mvn spring-boot:run&
 
 - [ANDROID](https://github.com/Bring-SOPT/Wonder-Android)
 - [IOS](https://github.com/Bring-SOPT/Wonder-iOS)
-- [SERVER-OWNER](https://github.com/Bring-SOPT/Wonder-Server-Owner)
+- [SERVER-OWNER](https://github.com/BBBOMi/Wonder-Server-Owner)
 - [ANDROID-OWNER](https://github.com/Bring-SOPT/Wonder-Android-Owner)
 
 <br>
 
 ## 수상
 
-- 2018 SOPT 제 23기 APPJAM 장려상 수상
+- 2019 SOPT 제 23기 APPJAM 장려상 수상
 ------
